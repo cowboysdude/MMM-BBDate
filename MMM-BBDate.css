@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans+Mono');
+
+.MMM-BBDate {
+    font-family: 'Titillium Web';
+    text-align: center;
+}
+
+.MMM-BBDate .date {
+    font-size: 4em;
+	color: white;
+    padding: 0 auto;
+    height: 60%;
+    margin: 0 auto;
+    width: 90%; 
+    color: rgba(200, 200, 200, .6);
+    padding: 2px 10px;
+    line-height: 105%; 
+}
+.MMM-BBDate .message {
+	font-size: 1.9em;
+	font-weight: bold;
+    color: white;	
+}
+.MMM-BBDate .special {
+	font-size: 1.6em;
+	color: gold;
+}
+
